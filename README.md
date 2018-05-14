@@ -1,1 +1,1 @@
-# Projeto em grafo referente a Rede Ipê
+# Projeto de grafos referente a Rede Ipê
